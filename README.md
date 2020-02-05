@@ -3,6 +3,10 @@
 This iOS app allows you to browse information about appearing players and add them to favorites,
 in the EA Sports FIFA Series.
 
+## App Store
+
+https://apps.apple.com/jp/app/id1495665628
+
 ## Dependency
 
 - Swift 4.2
